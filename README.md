@@ -141,6 +141,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["My Emulation Goes to the Moon... Until False Flag"][1094]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["nRF51 RBPCONF bypass for firmware dumping"][1154]
+- ["Oops! It's a kernel stack use-after-free: Exploiting NVIDIA's GPU Linux drivers"][1186]
 - ["Out-of-bound read in ANGLE CopyNativeVertexData from Compromised Renderer"][1148]
 - ["Overview of Map Exploitation in v8"][1075]
 - ["Patch-Gapping the Google Container-Optimized OS for $0"][1032]
@@ -166,6 +167,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Rooting the TP-Link Tapo C200 Rev.5"][1130]
 - ["ROPing our way to RCE"][1028]
 - ["RV130X Firmware Analysis"][1025]
+- ["Security through Transparency: Tales from the RP2350 Hacking Challenge"][1187]
 - ["SLAP: Data Speculation Attacks via Load Address Prediction on Apple Silicon"][1060]
 - ["smoltalk: RCE in Open Source Agents"][1045]
 - ["Solo: A Pixel 6 Pro Story (When one bug is all you need)"][1128]
@@ -2548,3 +2550,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1183]: https://wiretap.fail
 [1184]: https://xploitbengineer.github.io/CVE-2025-21479
 [1185]: https://research.checkpoint.com/2025/denial-of-fuzzing-rust-in-the-windows-kernel/
+[1186]: https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html
+[1187]: https://www.usenix.org/system/files/woot25-muench.pdf
